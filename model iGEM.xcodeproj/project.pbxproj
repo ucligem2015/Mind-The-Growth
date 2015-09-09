@@ -1,0 +1,303 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0B30890F1B96443600BFB02F /* It makes a bunch of 5s 01.09 .cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0B30890D1B96443600BFB02F /* It makes a bunch of 5s 01.09 .cpp */; };
+		0BC78C881B9A1A7E0014F8A9 /* Mark 4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0BC78C871B9A1A7E0014F8A9 /* Mark 4.cpp */; };
+		0BC78C8A1B9BE9280014F8A9 /* September 6th - All constants set to zero or one in order to be ignored.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0BC78C891B9BE9280014F8A9 /* September 6th - All constants set to zero or one in order to be ignored.cpp */; };
+		0BD5A90F1B9358F700B99777 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0BD5A90E1B9358F700B99777 /* main.cpp */; };
+		0BD5A9251B93BC5A00B99777 /* Normally distribued random numbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0BD5A9231B93BC5A00B99777 /* Normally distribued random numbers.cpp */; };
+		0BD5A9271B93C70F00B99777 /* MDD proportion random numbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0BD5A9261B93C70F00B99777 /* MDD proportion random numbers.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		0BD5A9091B9358F700B99777 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		0B30890D1B96443600BFB02F /* It makes a bunch of 5s 01.09 .cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "It makes a bunch of 5s 01.09 .cpp"; sourceTree = "<group>"; };
+		0BC78C871B9A1A7E0014F8A9 /* Mark 4.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Mark 4.cpp"; sourceTree = "<group>"; };
+		0BC78C891B9BE9280014F8A9 /* September 6th - All constants set to zero or one in order to be ignored.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "September 6th - All constants set to zero or one in order to be ignored.cpp"; sourceTree = "<group>"; };
+		0BD5A90B1B9358F700B99777 /* model iGEM */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "model iGEM"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0BD5A90E1B9358F700B99777 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		0BD5A9161B935B6D00B99777 /* cv.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = cv.h; sourceTree = "<group>"; };
+		0BD5A9171B935B6D00B99777 /* cv.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = cv.hpp; sourceTree = "<group>"; };
+		0BD5A9181B935B6D00B99777 /* cvaux.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = cvaux.h; sourceTree = "<group>"; };
+		0BD5A9191B935B6D00B99777 /* cvaux.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = cvaux.hpp; sourceTree = "<group>"; };
+		0BD5A91A1B935B6D00B99777 /* cvwimage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = cvwimage.h; sourceTree = "<group>"; };
+		0BD5A91B1B935B6D00B99777 /* cxcore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = cxcore.h; sourceTree = "<group>"; };
+		0BD5A91C1B935B6D00B99777 /* cxcore.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = cxcore.hpp; sourceTree = "<group>"; };
+		0BD5A91D1B935B6D00B99777 /* cxeigen.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = cxeigen.hpp; sourceTree = "<group>"; };
+		0BD5A91E1B935B6D00B99777 /* cxmisc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = cxmisc.h; sourceTree = "<group>"; };
+		0BD5A91F1B935B6D00B99777 /* highgui.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = highgui.h; sourceTree = "<group>"; };
+		0BD5A9201B935B6D00B99777 /* ml.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ml.h; sourceTree = "<group>"; };
+		0BD5A9221B935B6D00B99777 /* opencv.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = opencv.hpp; sourceTree = "<group>"; };
+		0BD5A9231B93BC5A00B99777 /* Normally distribued random numbers.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Normally distribued random numbers.cpp"; sourceTree = "<group>"; };
+		0BD5A9261B93C70F00B99777 /* MDD proportion random numbers.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "MDD proportion random numbers.cpp"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		0BD5A9081B9358F700B99777 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0BD5A9021B9358F700B99777 = {
+			isa = PBXGroup;
+			children = (
+				0BD5A9151B935B6D00B99777 /* opencv */,
+				0BD5A9211B935B6D00B99777 /* opencv2 */,
+				0BD5A90D1B9358F700B99777 /* model iGEM */,
+				0BD5A90C1B9358F700B99777 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		0BD5A90C1B9358F700B99777 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0BD5A90B1B9358F700B99777 /* model iGEM */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0BD5A90D1B9358F700B99777 /* model iGEM */ = {
+			isa = PBXGroup;
+			children = (
+				0BD5A90E1B9358F700B99777 /* main.cpp */,
+				0BC78C891B9BE9280014F8A9 /* September 6th - All constants set to zero or one in order to be ignored.cpp */,
+				0BD5A9231B93BC5A00B99777 /* Normally distribued random numbers.cpp */,
+				0BD5A9261B93C70F00B99777 /* MDD proportion random numbers.cpp */,
+				0B30890D1B96443600BFB02F /* It makes a bunch of 5s 01.09 .cpp */,
+				0BC78C871B9A1A7E0014F8A9 /* Mark 4.cpp */,
+			);
+			path = "model iGEM";
+			sourceTree = "<group>";
+		};
+		0BD5A9151B935B6D00B99777 /* opencv */ = {
+			isa = PBXGroup;
+			children = (
+				0BD5A9161B935B6D00B99777 /* cv.h */,
+				0BD5A9171B935B6D00B99777 /* cv.hpp */,
+				0BD5A9181B935B6D00B99777 /* cvaux.h */,
+				0BD5A9191B935B6D00B99777 /* cvaux.hpp */,
+				0BD5A91A1B935B6D00B99777 /* cvwimage.h */,
+				0BD5A91B1B935B6D00B99777 /* cxcore.h */,
+				0BD5A91C1B935B6D00B99777 /* cxcore.hpp */,
+				0BD5A91D1B935B6D00B99777 /* cxeigen.hpp */,
+				0BD5A91E1B935B6D00B99777 /* cxmisc.h */,
+				0BD5A91F1B935B6D00B99777 /* highgui.h */,
+				0BD5A9201B935B6D00B99777 /* ml.h */,
+			);
+			path = opencv;
+			sourceTree = "<group>";
+		};
+		0BD5A9211B935B6D00B99777 /* opencv2 */ = {
+			isa = PBXGroup;
+			children = (
+				0BD5A9221B935B6D00B99777 /* opencv.hpp */,
+			);
+			path = opencv2;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		0BD5A90A1B9358F700B99777 /* model iGEM */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0BD5A9121B9358F700B99777 /* Build configuration list for PBXNativeTarget "model iGEM" */;
+			buildPhases = (
+				0BD5A9071B9358F700B99777 /* Sources */,
+				0BD5A9081B9358F700B99777 /* Frameworks */,
+				0BD5A9091B9358F700B99777 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "model iGEM";
+			productName = "model iGEM";
+			productReference = 0BD5A90B1B9358F700B99777 /* model iGEM */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0BD5A9031B9358F700B99777 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0640;
+				ORGANIZATIONNAME = "Francisco da Cunha Guimarães";
+				TargetAttributes = {
+					0BD5A90A1B9358F700B99777 = {
+						CreatedOnToolsVersion = 6.4;
+					};
+				};
+			};
+			buildConfigurationList = 0BD5A9061B9358F700B99777 /* Build configuration list for PBXProject "model iGEM" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 0BD5A9021B9358F700B99777;
+			productRefGroup = 0BD5A90C1B9358F700B99777 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				0BD5A90A1B9358F700B99777 /* model iGEM */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0BD5A9071B9358F700B99777 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0BD5A90F1B9358F700B99777 /* main.cpp in Sources */,
+				0BC78C8A1B9BE9280014F8A9 /* September 6th - All constants set to zero or one in order to be ignored.cpp in Sources */,
+				0BD5A9271B93C70F00B99777 /* MDD proportion random numbers.cpp in Sources */,
+				0BD5A9251B93BC5A00B99777 /* Normally distribued random numbers.cpp in Sources */,
+				0B30890F1B96443600BFB02F /* It makes a bunch of 5s 01.09 .cpp in Sources */,
+				0BC78C881B9A1A7E0014F8A9 /* Mark 4.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		0BD5A9101B9358F700B99777 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		0BD5A9111B9358F700B99777 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		0BD5A9131B9358F700B99777 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		0BD5A9141B9358F700B99777 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0BD5A9061B9358F700B99777 /* Build configuration list for PBXProject "model iGEM" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0BD5A9101B9358F700B99777 /* Debug */,
+				0BD5A9111B9358F700B99777 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0BD5A9121B9358F700B99777 /* Build configuration list for PBXNativeTarget "model iGEM" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0BD5A9131B9358F700B99777 /* Debug */,
+				0BD5A9141B9358F700B99777 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0BD5A9031B9358F700B99777 /* Project object */;
+}
